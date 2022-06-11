@@ -9,5 +9,5 @@ Custom CSS for BetterDiscord.
 1. Download [BetterDiscord](https://betterdiscord.app/).
 2. Go to this [page](https://unownplain.github.io/bdcustomcss/custom.css) and copy the whole page to your clipboard.
 3. Open your settings on Discord and scroll down to Custom CSS.
-5. Paste in the text you just copied
+5. Paste in the text you just copied.
 6. Click the save button.
